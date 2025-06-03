@@ -1,0 +1,5 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY='your-clerk-publishable-key'
+CLERK_SECRET_KEY='your-clerk-secret-key'
+MONGODB_URI='your-mongodb-uri'
+SIGNING_SECRET='your-webhook-signing-secret'
+DEEPSEEK_API_KEY='your-deepseek-api-key'
