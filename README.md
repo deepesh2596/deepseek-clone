@@ -6,19 +6,19 @@ This is a full-stack AI chat application built using Next.js, inspired by DeepSe
 ---
 
 🔥 Features
-🔐 User Authentication with Clerk – Seamless login and session handling
-💬 Prompt-Based AI Chat – Ask anything and get dynamic responses
-🧠 Typing Animation – AI replies appear with a natural typing effect
-📁 Sidebar Chat Management – Create, rename, and delete saved chats
-🧾 Chat History – All chats stored securely in MongoDB
-📦 Clerk Webhooks Integration – Automatically stores user profile data in the database
-🧑‍💻 VS Code-Like Code Rendering – Syntax-highlighted responses using Prism.js
-📌 Fully Responsive Design – Built using Tailwind CSS for modern UI/UX
-🚀 Live Deployment on Vercel
+- 🔐 User Authentication with Clerk – Seamless login and session handling
+- 💬 Prompt-Based AI Chat – Ask anything and get dynamic responses
+- 🧠 Typing Animation – AI replies appear with a natural typing effect
+- 📁 Sidebar Chat Management – Create, rename, and delete saved chats
+- 🧾 Chat History – All chats stored securely in MongoDB
+-📦 Clerk Webhooks Integration – Automatically stores user profile data in the database
+- 🧑‍💻 VS Code-Like Code Rendering – Syntax-highlighted responses using Prism.js
+- 📌 Fully Responsive Design – Built using Tailwind CSS for modern UI/UX
+- 🚀 Live Deployment on Vercel
 
 ### 🛠️ Tech Stack
 - Frontend: Next.js (v15.1.6), Tailwind CSS, prismjs – Code syntax highlighting, react-hot-toast – Toast notifications, react-markdown – Markdown formatting for AI responses
-- Backend: Node.js + Express (via API routes in Next.js), axios – Making API calls, mongoose – MongoDB ODM for data modeling, openai – Accessing DeepSeek AI API, svix – Managing Clerk webhooks and storing user data
+- Backend: Node.js + Express (via API routes in Next.js), axios – Making API calls, mongoose – MongoDB ODM for data modeling, openai – Accessing DeepSeek AI API, svix – Managing Clerk              webhooks and storing user data
 - Authentication & Database: Clerk – User authentication and session management, MongoDB Atlas – Cloud-hosted database
 
 ---
